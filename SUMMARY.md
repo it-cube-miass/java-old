@@ -4,5 +4,5 @@
 * [1. Лексическая структура](1/README.md)
 * [3. Типы данных](3/README.md)
   * [3.1 Примитивные типы](3/primitive-types.md)
-  * [3.2 boolean](3/boolean.md)
+  * [3.2 Тип boolean](3/boolean.md)
 
