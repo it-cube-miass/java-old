@@ -6,4 +6,6 @@
   * [3.1 Примитивные типы](3/primitive-types.md)
   * [3.2 Тип boolean](3/boolean.md)
   * [3.3 Тип char](3/char.md)
+  * [3.3 Целочисленные типы](3/integer-types.md)
+  * [3.3 Вещественные типы](3/floating-types.md)
 
