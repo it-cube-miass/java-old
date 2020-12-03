@@ -13,5 +13,6 @@
 * [5. Операторы и выражения](5/README.md)
 * [6. Операторы-инструкции](6/README.md)
   * [6.1 Statements](6/statements.md)
-  * [6.2 if/else](6/statements.md)
+  * [6.2 if/else](6/if-else.md)
+  * [6.3 switch](6/switch.md)
 
