@@ -15,5 +15,6 @@
   * [6.1 Statements](6/statements.md)
   * [6.2 if/else](6/if-else.md)
   * [6.3 switch](6/switch.md)
-  * [6.3 while / do while](6/while.md)
+  * [6.4 while / do while](6/while.md)
+  * [6.5 for и foreach](6/for-foreach.md)
 
