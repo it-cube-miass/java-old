@@ -15,4 +15,5 @@
   * [6.1 Statements](6/statements.md)
   * [6.2 if/else](6/if-else.md)
   * [6.3 switch](6/switch.md)
+  * [6.3 while](6/while.md)
 
