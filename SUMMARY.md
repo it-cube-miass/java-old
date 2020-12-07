@@ -18,5 +18,6 @@
   * [6.4 while / do while](6/while.md)
   * [6.5 for и foreach](6/for-foreach.md)
   * [6.6 break](6/break.md)
-  * [6.7 break](6/continue.md)
+  * [6.7 continue](6/continue.md)
+  * [6.8 return](6/return.md)
 
