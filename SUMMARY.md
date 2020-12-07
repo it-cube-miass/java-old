@@ -22,4 +22,5 @@
   * [6.8 return](6/return.md)
 * [7 Введение в ООП](7/README.md)
 * [8 Классы-обертки](8/README.md)
+* [9 Массивы](8/README.md)
 
