@@ -20,4 +20,5 @@
   * [6.6 break](6/break.md)
   * [6.7 continue](6/continue.md)
   * [6.8 return](6/return.md)
+* [7 Введение в ООП](7/README.md)
 
