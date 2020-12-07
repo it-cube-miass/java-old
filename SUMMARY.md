@@ -17,4 +17,5 @@
   * [6.3 switch](6/switch.md)
   * [6.4 while / do while](6/while.md)
   * [6.5 for и foreach](6/for-foreach.md)
+  * [6.5 break](6/break.md)
 
